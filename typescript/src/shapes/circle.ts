@@ -5,5 +5,4 @@ function newCircle(radius: number): Shape {
         }
     }
 }
-
 export { newCircle }
