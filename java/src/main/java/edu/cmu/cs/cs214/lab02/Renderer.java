@@ -8,7 +8,7 @@ public class Renderer {
     Renderer(Shape shape) {
         this.shape = shape;
     }
-
+//
     void draw() {
         double area = shape.getArea();
 
